@@ -1,0 +1,13 @@
+.favourites_container {
+  display: inline;
+}
+
+.fav_btn {
+  border: 1.5px solid black;
+  display: inline-block;
+  margin: 2px 2px;
+  background-color: white;
+  color: black;
+  font-size: 1rem;
+  padding: 4px 4px;
+}
